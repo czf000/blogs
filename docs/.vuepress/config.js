@@ -86,7 +86,7 @@ module.exports = {
           floatStyle: { bottom: "20px", "z-index": "999999" },
         },
       ],
-   ]
+   ],
     // sidebar: [
     //   {
     //     title: "欢迎学习",
